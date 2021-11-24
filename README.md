@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Yahia
-- 👀 I’m interested in Flutter & Computer Vision
+- 👀 I’m interested in Flutter, Python Devolpment, Computer vision
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me 
