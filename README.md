@@ -8,6 +8,7 @@ I'm a Software engineer and a skilled Flutter developer with expertise in buildi
 I'm also interested in python developing.
 
 ### My live apps:
+1. Qydha [Android](https://play.google.com/store/apps/details?id=com.qydha&pli=1) - [IOS](https://apps.apple.com/in/app/qydha/id6446068415)
 1. [Noted](https://play.google.com/store/apps/details?id=com.bisector2011.noted)
 2. [Sam Baloot game (admin panel)](https://sam-baloot-admin.online/admin)
 ### Apps i particibated in:
