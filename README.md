@@ -13,5 +13,4 @@ I'm also interested in python developing.
 3. Qydha Plus (to-be-published)
 4. Zat admin panel
 ### Apps i particibated in:
-* Qydha
 * Conference Moderator
