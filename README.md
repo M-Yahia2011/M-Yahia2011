@@ -4,8 +4,8 @@
 <a href="m.yahia.eid2011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-I'm a Software engineer and a skilled Flutter developer with expertise in building high-quality, cross-platform applications for Android, IOS, Web, and Windows. Experienced in building admin panels using headless CMS.
-I'm also interested in python developing.
+I'm a Software engineer and a skilled Flutter developer with expertise in building high-quality, cross-platform applications for Android, IOS, Web, and Windows. Experienced in building admin panels using headless CMS. 
+I'm also interested in .Net developing.
 
 ### My Apps:
 1. [Qydha](https://www.qydha.com)
