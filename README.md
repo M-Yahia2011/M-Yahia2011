@@ -9,10 +9,10 @@ I'm also interested in .Net developing.
 ### My Packages/Plugins:
 [Flutter_Time_Guard plugin](https://pub.dev/packages/flutter_time_guard)
 ### My Apps:
-1. [Qydha](https://www.qydha.com)
-2. [Noted](https://play.google.com/store/apps/details?id=com.bisector2011.noted)
-3. Qydha Plus (to-be-published)
-4. Zat admin panel
+1. Yakin [Play store](https://play.google.com/store/apps/details?id=com.nahdi.yakin&hl=en&pli=1) [iOS](https://apps.apple.com/us/app/yakin/id6757563820)
+2. [Qydha](https://www.qydha.com)
+4. [Noted](https://play.google.com/store/apps/details?id=com.bisector2011.noted)
+7. Zat admin panel
 ### Apps i particibated in:
 * Conference Moderator
 * Live OBS Animation through Qydha
